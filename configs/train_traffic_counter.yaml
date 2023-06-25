@@ -1,9 +1,9 @@
 # modify to correct paths of your option
 # The paths assume that you are running from
 # /contents/yolov5
-train: ../DLTrafficCounter/data/bbox_highway/train
-val: ../DLTrafficCounter/data/bbox_highway/val
-test: ../DLTrafficCounter/data/bbox_highway/test
+train: ../TrafficCounter/data/bbox_highway/train
+val: ../TrafficCounter/data/bbox_highway/val
+test: ../TrafficCounter/data/bbox_highway/test
 
 # number of classes
 nc: 3
